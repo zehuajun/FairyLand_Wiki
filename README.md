@@ -1,41 +1,29 @@
-# Website
+# FairyLand 文档
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+此文档站使用 [Docusaurus](https://docusaurus.io/) 构建。
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### 安装
 
 ```
-$ yarn start
+$ npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+### 本地开发
 
 ```
-$ yarn build
+$ npm run serve
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+此命令启动本地开发服务器并打开浏览器窗口。大多数更改都是实时热重载的，无需重新启动服务器。
 
-### Deployment
-
-Using SSH:
+### 构建
 
 ```
-$ USE_SSH=true yarn deploy
+$ npm run build
 ```
 
-Not using SSH:
+此命令将静态内容生成到“build”目录中，并且可以使用任何静态内容托管服务来提供。
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+### 部署
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+使用 [Cloudflare Pages](https://developers.cloudflare.com/pages/) 自动构建部署。
