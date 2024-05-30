@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tutorial-basics/congratulations.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/tutorial-basics/congratulations.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/tutorial-basics/congratulations.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/tutorial-basics/congratulations.md"
+            "file": "README.md"
           }
         }
       }
@@ -133,17 +133,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0c9546ea7ef27b79",
+  "active": "98869092b529d590",
   "lastOpenFiles": [
+    "static/img/undraw_docusaurus_react.svg",
+    "static/img/logo.svg",
+    "docs/tutorial-basics/congratulations.md",
     "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
     "blog/2021-08-26-welcome/index.md",
     "docs/intro.md",
     "docs/未命名.md",
-    "docs/tutorial-basics/congratulations.md",
     "docs/tutorial-extras/translate-your-site.md",
     "docs/tutorial-extras/manage-docs-versions.md",
     "static/img/undraw_docusaurus_tree.svg",
-    "static/img/undraw_docusaurus_react.svg",
     "static/img/docusaurus-social-card.jpg",
     "blog/2019-05-29-long-blog-post.md",
     "blog/2019-05-28-first-blog-post.md"
