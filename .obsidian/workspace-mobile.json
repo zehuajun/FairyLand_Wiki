@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/tutorial-basics/congratulations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/intro.md",
+            "file": "docs/tutorial-basics/congratulations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/intro.md",
+            "file": "docs/tutorial-basics/congratulations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/intro.md"
+            "file": "docs/tutorial-basics/congratulations.md"
           }
         }
       }
@@ -133,12 +133,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "98869092b529d590",
+  "active": "0c9546ea7ef27b79",
   "lastOpenFiles": [
-    "docs/未命名.md",
-    "docs/intro.md",
-    "blog/2021-08-26-welcome/index.md",
     "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "blog/2021-08-26-welcome/index.md",
+    "docs/intro.md",
+    "docs/未命名.md",
     "docs/tutorial-basics/congratulations.md",
     "docs/tutorial-extras/translate-your-site.md",
     "docs/tutorial-extras/manage-docs-versions.md",

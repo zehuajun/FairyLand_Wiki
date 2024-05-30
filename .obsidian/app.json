@@ -24,5 +24,7 @@
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "trashOption": "system",
+  "showUnsupportedFiles": true
 }
