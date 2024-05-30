@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "4fac09d1b4eebf2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "05907be32232669d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98869092b529d590",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f1616d39a996e65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c9546ea7ef27b79",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9a1726db874f8bb8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "32e61af4e3ffe75e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d1306da9f0d151f9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fee2229f3fc9c467",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff0ea91b9e0b3052",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fccbd64c68005262",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "febc56df54cadcb6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "98869092b529d590",
+  "lastOpenFiles": [
+    "blog/2021-08-26-welcome/index.md",
+    "static/img/undraw_docusaurus_tree.svg",
+    "static/img/undraw_docusaurus_react.svg",
+    "static/img/docusaurus-social-card.jpg",
+    "blog/2019-05-29-long-blog-post.md",
+    "blog/2019-05-28-first-blog-post.md"
+  ]
+}
