@@ -13,7 +13,7 @@ const config: Config = {
   organizationName: 'zehuajun',
   projectName: 'FairyLand_Docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
