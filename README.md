@@ -1,6 +1,6 @@
 # FairyLand 文档
 
-此文档站使用 [Docusaurus](https://docusaurus.io/) 构建，使用 [Obsidian](https://obsidian.md/) 进行编写。
+此文档站使用 [Docusaurus](https://docusaurus.io/) 构建。
 
 ### 构建部署
 
