@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # 首页
 
 ## 关于 FairyLand
