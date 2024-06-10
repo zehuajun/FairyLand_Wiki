@@ -47,7 +47,7 @@ const config: Config = {
     navbar: {
       title: 'FairyLand Wiki',
       logo: {
-        alt: 'FairyLand Wiki 的图标,
+        alt: 'FairyLand Wiki 的图标',
         src: 'img/logo.svg',
       },
       items: [
