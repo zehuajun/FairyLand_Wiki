@@ -5,13 +5,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'FairyLand 文档站',
   tagline: 'FairyLand 服务器的文档站',
-  favicon: 'img/favicon.ico',
+  favicon: '',
 
-  url: 'https://docs.fairyland.zehuajun.top/',
+  url: 'https://wiki.fairyland.zehuajun.top/',
   baseUrl: '/',
 
   organizationName: 'zehuajun',
-  projectName: 'FairyLand_Docs',
+  projectName: 'FairyLand_Wiki,
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -28,12 +28,12 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/zehuajun/FairyLand_Docs/tree/dev/docs/',
+            'https://github.com/zehuajun/FairyLand_Wiki/tree/dev/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/zehuajun/FairyLand_Docs/tree/dev/blog/',
+            'https://github.com/zehuajun/FairyLand_Wiki/tree/dev/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -43,72 +43,43 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: '',
     navbar: {
       title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      logo: {},
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Wiki',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/blog', label: '博客', position: 'left'},
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '社区',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'QQ 群',
+              href: 'https://qm.qq.com/q/z3NMBZO58s',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '其他',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/FairyLand-Team/FairyLand_Wiki',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} FairyLand Team. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
