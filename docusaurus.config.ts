@@ -3,15 +3,15 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'FairyLand 文档站',
-  tagline: 'FairyLand 服务器的文档站',
-  favicon: '',
+  title: 'FairyLand Wiki',
+  tagline: 'FairyLand 服务器的 Wiki',
+  favicon: 'img/favicon.ico',
 
   url: 'https://wiki.fairyland.zehuajun.top/',
   baseUrl: '/',
 
   organizationName: 'zehuajun',
-  projectName: 'FairyLand_Wiki,
+  projectName: 'FairyLand_Wiki',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -43,10 +43,13 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: '',
+    image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {},
+      title: 'FairyLand Wiki',
+      logo: {
+        alt: 'FairyLand Wiki 的图标,
+        src: 'img/logo.svg',
+      },
       items: [
         {
           type: 'docSidebar',
