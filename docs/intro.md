@@ -3,6 +3,12 @@ sidebar_position: 1
 ---
 # 简介
 
+:::warning
+
+本文档目前并未编写完成，仍在积极编写中。
+
+:::
+
 ## 关于 FairyLand
 
 Fairyland 是一个高版本我的世界生存互通服。
