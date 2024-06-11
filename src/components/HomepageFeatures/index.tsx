@@ -8,7 +8,32 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
-const FeatureList: FeatureItem[] = [];
+const FeatureList: FeatureItem[] = [
+  {
+    title: '内容丰富',
+    description: (
+      <>
+        本 Wiki 所含内容丰富，涵盖 FairyLand 服务器所有的使用教程。
+      </>
+    ),
+  },
+  {
+    title: '内容最新',
+    description: (
+      <>
+        本 Wiki 实时追踪服务器动态，确保所提供内容始终保持最新。
+      </>
+    ),
+  },
+  {
+    title: '社区 Wiki',
+    description: (
+      <>
+        本 Wiki 在 Github 开源，欢迎加入我们的创作之旅，共同编织精彩！
+      </>
+    ),
+  },
+];
 
 function Feature({title, Svg, description}: FeatureItem) {
   return (
